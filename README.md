@@ -1,4 +1,5 @@
 ### Hi there 👋
+- 🔭 I’m currently working as Android developer (Freelancer)
 - 🌱 I’m currently learning kotlin
 - 👯 I’m looking to collaborate on Android projects
 - 💬 Ask me about Java ,Android,Data stracture

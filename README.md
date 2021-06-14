@@ -2,7 +2,7 @@
 - 🔭 I’m currently working as Android developer (Freelancer)
 - 🌱 I’m currently learning kotlin
 - 👯 I’m looking to collaborate on Android projects
-- 💬 Ask me about Java ,Android,Data stractures
+- 💬 Ask me about Java ,Android,Data stractures,Clean Code
 - 📫 How to reach me: [Linkedln](https://www.linkedin.com/in/hamza-gamal-50ba21176/) <br/><br/><br/>
 
 

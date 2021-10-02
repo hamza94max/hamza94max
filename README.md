@@ -6,7 +6,10 @@
 - 📫 How to reach me: [Linkedln](https://www.linkedin.com/in/hamza-gamal-50ba21176/) <br/><br/><br/>
 
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=hamza94max)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=hamza94max)](https://github.com/anuraghazra/github-readme-stats)    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hamza94max&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+
+
 
 <!--
 **hamza94max/hamza94max** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

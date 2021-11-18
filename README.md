@@ -6,8 +6,7 @@
 - 📫 How to reach me: [Linkedln](https://www.linkedin.com/in/hamza-gamal-50ba21176/) <br/><br/><br/>
 
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=hamza94max)](https://github.com/anuraghazra/github-readme-stats)  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hamza94max&layout=compact)](https://github.com/anuraghazra/github-readme-stats)   [![Omid Nikrah StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=11843135)](https://stackoverflow.com/users/11843135/hamza-khalifa)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=hamza94max)](https://github.com/anuraghazra/github-readme-stats)    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hamza94max&layout=compact)](https://github.com/anuraghazra/github-readme-stats)  
 
 
 

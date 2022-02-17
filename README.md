@@ -13,7 +13,8 @@
 
 
 <br/><br/>
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=hamza94max)](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hamza94max&layout=compact)](https://github.com/anuraghazra/github-readme-stats)  
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=hamza94max)](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hamza94max&layout=compact)](https://github.com/anuraghazra/github-readme-stats)  ![Leetcode Stats](https://leetcode.card.workers.dev/?username=hamza94)
+
 
 
 

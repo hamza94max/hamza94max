@@ -1,6 +1,6 @@
-## Hi there 👋
+##  Welcome to My GitHub 👋🏻
 - 🔭 I’m currently working as Android developer (Freelancer at @Upwork)
-- 🌱 I’m currently learning kotlin.
+- 🌱 Problem solver at [Leetcode](https://leetcode.com/hamza94/)
 - 👯 I’m looking to collaborate on Android projects.
 - 💬 Ask me about : Java, Kotlin, OOP, Android, Data stractures, Clean Code, SOLID Principles.
 - 📫 How to reach me: [Linkedln](https://www.linkedin.com/in/hamza-gamal-50ba21176/) <br/>
@@ -10,10 +10,8 @@
 
 
 
-
-
 <br/><br/>
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=hamza94max)](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hamza94max&layout=compact)](https://github.com/anuraghazra/github-readme-stats)  ![Leetcode Stats](https://leetcode.card.workers.dev/?username=hamza94)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=hamza94max)](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hamza94max&layout=compact)](https://github.com/anuraghazra/github-readme-stats) 
 
 
 

@@ -1,4 +1,4 @@
-##  Welcome to My GitHub 👋🏻
+
 <h1 align="center">Hi 👋, I'm Hamza Gamal</h1>
 <h3 align="center">A passionate Android developer from Egypt</h3>
 

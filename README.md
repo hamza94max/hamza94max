@@ -6,7 +6,7 @@
 
 - 👯 I’m looking to collaborate on **Android projects**
 
-- 💬 Ask me about **Java, Kotlin, OOP, Android, Data stractures, Clean Code, SOLID Principles.**
+- 💬 Ask me about **Java, Kotlin, OOP, Android, Data structures, Clean Code, SOLID Principles.**
 
 - 📫 How to reach me [Linkedln](https://www.linkedin.com/in/hamza-gamal-50ba21176/)
 

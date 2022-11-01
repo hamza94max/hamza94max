@@ -9,6 +9,7 @@
 - 💬 Ask me about **Java, Kotlin, OOP, Android, Data structures, Clean Code, Design patterns, SOLID Principles.**
 
 - 📫 How to reach me [Linkedln](https://www.linkedin.com/in/hamza-gamal-50ba21176/)
+- 📫 You can see my live apps from here [Google play](https://play.google.com/store/apps/developer?id=FaresTech)
 
 
 

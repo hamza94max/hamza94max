@@ -10,37 +10,35 @@
 
 
 
-<!-- <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" height="30" width="42" alt="android logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" width="42" alt="java logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="30" width="42" alt="kotlin logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" width="42" alt="mysql logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" width="42" alt="python logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="30" width="42" alt="firebase logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" width="42" alt="html5 logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" width="42" alt="git logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="30" width="42" alt="figma logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jetbrains/jetbrains-original.svg" height="30" width="42" alt="jetbrains logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="30" width="42" alt="intellij logo"  />
-</div> -->
-
 <h3 align="left">🏆 LeetCode Profile</h3>
 
 Check out my [LeetCode profile](https://leetcode.com/hamza94/) to see my problem-solving skills in action!
 
-###
+
 
 ## 🔗 LinkedIn
 Connect with me on [LinkedIn](https://www.linkedin.com/in/hamza-gamal-50ba21176/) to learn more about my experience and skills in Android development.
 
-<!-- <div align="left">
-  <a href="hamzagamal854@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  </a>
-  <a href="https://www.linkedin.com/in/hamza-gamal-50ba21176/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  </a>
-</div> -->
+# Open source && Projects
+| Project        | Description |
+| ---            | --- |
+| [Wazaker](https://github.com/hamza94max/Wazaker) | An Islamic application to read morning and evening Azkar, direction of Qibla, counter for counting Zeker numbers, 42 hadith. |
+| [To-Do app](https://github.com/hamza94max/To-Do-App) | maintain our day-to-day tasks or list everything that we have to do |
+|[Foody](https://github.com/hamza94max/Foody)| An android app that use Food Api to display different categories of food|
+|[Direct-WhatsApp](https://github.com/hamza94max/Direct-WhatsApp)| go to whatsApp chat directly without saving the number into device|
+|[NewsApp](https://github.com/hamza94max/NewsApp)| News application using the API for live news and blog articles from the media|
+|[E-Book](https://github.com/hamza94max/e-book-)| e-book app for (author) using Pdf viewer library|
+|[Goods Expiry Date Tracker](https://github.com/hamza94max/BarCode)|  that reads a barcode and save the item 's ( name, type, expire date) using Barcode library|
+
+<br>  
+
+# notes
+| Project        | Description |
+| ---            | --- |
+| [Data-structures](https://github.com/hamza94max/Data-structures)  | Data Structures including Array, 2D Array, LinkedList, Stack, Queue, Hash table, Tree, Graph |
+| [Kotlin in action ](https://github.com/hamza94max/Kotlin-In-Action-Book-) | Notes for "Kotlin In-Action" Book 📚
+| [Clean code Book](https://github.com/hamza94max/Clean-Code-) | Notes for Clean code Book  📚
+
 
 
 <br> 

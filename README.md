@@ -35,7 +35,8 @@ Connect with me on [LinkedIn](https://www.linkedin.com/in/hamza-gamal-50ba21176/
 # Live apps :-
 | Project        | Description |
 | ---            | --- |
-| [Ayen](https://play.google.com/store/apps/details?id=com.schemecode.ayen&hl=en-IN) |It is a live android app to discover homes and properties on the map, view in high-res pics, details of housing units and places (for selling and rent) |
+| [Ayen](https://github.com/hamza94max/Ayen) |It is a live android app to discover homes and properties on the map, view in high-res pics, details of housing units and places (for selling and rent) |
+| [FootballScores](https://github.com/hamza94max/FootballScores) |A live android app to stay in the game with this Android app! View matches from yesterday, today, and tomorrow, track live stats, explore head-to-head records, and keep up with top scorers and transfers |
 
 
 # notes

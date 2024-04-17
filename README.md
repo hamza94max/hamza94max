@@ -29,9 +29,6 @@ Connect with me on [LinkedIn](https://www.linkedin.com/in/hamza-gamal-50ba21176/
 | [Smart HR](https://play.google.com/store/apps/details?id=com.scheme.leverrehr&hl=en) |is an Android app designed to simplify HR tasks for employees. It allows them to check in/out, view daily summaries (meetings, tasks), request holidays, manage tasks, access an employee directory, and receive timely notifications. |
 | [Tabark App](https://play.google.com/store/apps/details?id=com.scheme.tabark&hl=en_US) |E-commerce app specialized in selling food items. It offers features like easy navigation, secure transactions, personalized shopping, order tracking, and customer support. It's designed to provide users with a convenient and efficient shopping experience for food products. |
 
-
-
-
 # Open source && Projects
 | Project        | Description |
 | ---            | --- |
@@ -42,11 +39,7 @@ Connect with me on [LinkedIn](https://www.linkedin.com/in/hamza-gamal-50ba21176/
 |[NewsApp](https://github.com/hamza94max/NewsApp)| News application using the API for live news and blog articles from the media|
 |[E-Book](https://github.com/hamza94max/e-book-)| e-book app for (author) using Pdf viewer library|
 |[Goods Expiry Date Tracker](https://github.com/hamza94max/BarCode)|  that reads a barcode and save the item 's ( name, type, expire date) using Barcode library|
-
-<br>  
-
-
-
+  
 
 # notes
 | Project        | Description |

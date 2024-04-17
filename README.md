@@ -18,6 +18,19 @@ Check out my [LeetCode profile](https://leetcode.com/hamza94/) to see my problem
 
 ## 🔗 LinkedIn
 Connect with me on [LinkedIn](https://www.linkedin.com/in/hamza-gamal-50ba21176/) to learn more about my experience and skills in Android development.
+<br>
+
+# Live apps :-
+| Project        | Description |
+| ---            | --- |
+| [Ayen](https://github.com/hamza94max/Ayen) |It is a live android app to discover homes and properties on the map, view in high-res pics, details of housing units and places (for selling and rent) |
+| [FootballScores](https://github.com/hamza94max/FootballScores) |A live android app to stay in the game with this Android app! View matches from yesterday, today, and tomorrow, track live stats, explore head-to-head records, and keep up with top scorers and transfers |
+| [Le VERRE](https://play.google.com/store/apps/details?id=com.scheme.leverre&hl=en) |It is an app for cafe in cairo for selling coffee, hot drinks and cold drinks |
+| [Smart HR](https://play.google.com/store/apps/details?id=com.scheme.leverrehr&hl=en) |is an Android app designed to simplify HR tasks for employees. It allows them to check in/out, view daily summaries (meetings, tasks), request holidays, manage tasks, access an employee directory, and receive timely notifications. |
+| [Tabark App](https://play.google.com/store/apps/details?id=com.scheme.tabark&hl=en_US) |E-commerce app specialized in selling food items. It offers features like easy navigation, secure transactions, personalized shopping, order tracking, and customer support. It's designed to provide users with a convenient and efficient shopping experience for food products. |
+
+
+
 
 # Open source && Projects
 | Project        | Description |
@@ -32,11 +45,7 @@ Connect with me on [LinkedIn](https://www.linkedin.com/in/hamza-gamal-50ba21176/
 
 <br>  
 
-# Live apps :-
-| Project        | Description |
-| ---            | --- |
-| [Ayen](https://github.com/hamza94max/Ayen) |It is a live android app to discover homes and properties on the map, view in high-res pics, details of housing units and places (for selling and rent) |
-| [FootballScores](https://github.com/hamza94max/FootballScores) |A live android app to stay in the game with this Android app! View matches from yesterday, today, and tomorrow, track live stats, explore head-to-head records, and keep up with top scorers and transfers |
+
 
 
 # notes

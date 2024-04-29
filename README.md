@@ -17,7 +17,7 @@ Check out my [LeetCode profile](https://leetcode.com/hamza94/) to see my problem
 
 
 ## 🔗 LinkedIn
-Connect with me on [LinkedIn](https://www.linkedin.com/in/hamza-gamal-50ba21176/) to learn more about my experience and skills in Android development.
+Connect with me on [LinkedIn](https://www.linkedin.com/in/hamza-khalifa-50ba21176/) to learn more about my experience and skills in Android development.
 <br>
 
 # Live apps :-

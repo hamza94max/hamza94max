@@ -28,6 +28,7 @@ Connect with me on [LinkedIn](https://www.linkedin.com/in/hamza-khalifa-50ba2117
 | [Le VERRE](https://play.google.com/store/apps/details?id=com.scheme.leverre&hl=en) |It is an app for cafe in cairo for selling coffee, hot drinks and cold drinks |
 | [Smart HR](https://play.google.com/store/apps/details?id=com.scheme.leverrehr&hl=en) |is an Android app designed to simplify HR tasks for employees. It allows them to check in/out, view daily summaries (meetings, tasks), request holidays, manage tasks, access an employee directory, and receive timely notifications. |
 | [Tabark App](https://play.google.com/store/apps/details?id=com.scheme.tabark&hl=en_US) |E-commerce app specialized in selling food items. It offers features like easy navigation, secure transactions, personalized shopping, order tracking, and customer support. It's designed to provide users with a convenient and efficient shopping experience for food products. |
+| [Sahem](https://play.google.com/store/apps/details?id=com.SchemeCode.zadhr&hl=en_US) | employee management in Ghana with our intuitive Android app, empowering companies to efficiently oversee tasks, schedules, and performance|
 
 # Open source && Projects
 | Project        | Description |

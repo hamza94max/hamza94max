@@ -29,6 +29,7 @@ Connect with me on [LinkedIn](https://www.linkedin.com/in/hamza-khalifa-50ba2117
 | [Smart HR](https://play.google.com/store/apps/details?id=com.scheme.leverrehr&hl=en) |is an Android app designed to simplify HR tasks for employees. It allows them to check in/out, view daily summaries (meetings, tasks), request holidays, manage tasks, access an employee directory, and receive timely notifications. |
 | [Tabark App](https://play.google.com/store/apps/details?id=com.scheme.tabark&hl=en_US) |E-commerce app specialized in selling food items. It offers features like easy navigation, secure transactions, personalized shopping, order tracking, and customer support. It's designed to provide users with a convenient and efficient shopping experience for food products. |
 | [Sahem](https://play.google.com/store/apps/details?id=com.SchemeCode.zadhr&hl=en_US) | employee management in Ghana with our intuitive Android app, empowering companies to efficiently oversee tasks, schedules, and performance|
+| [Mowaters](https://play.google.com/store/apps/details?id=com.sceamcode.mawatery&hl=en) | An app for buying and selling vehicles, plates and services, clearing and insuring government transactions, renting a vehicle, managing your maintenance schedule, expiration of your insurance, your vehicle papers and other alerts (In Bahrin)|
 
 # Open source && Projects
 | Project        | Description |

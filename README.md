@@ -21,15 +21,17 @@ Connect with me on [LinkedIn](https://www.linkedin.com/in/hamza-khalifa-50ba2117
 <br>
 
 # Live apps :-
-| Project        | Description |
-| ---            | --- |
-| [Ayen](https://github.com/hamza94max/Ayen) |It is a live android app to discover homes and properties on the map, view in high-res pics, details of housing units and places (for selling and rent) |
-| [FootballScores](https://github.com/hamza94max/FootballScores) |A live android app to stay in the game with this Android app! View matches from yesterday, today, and tomorrow, track live stats, explore head-to-head records, and keep up with top scorers and transfers |
-| [Le VERRE](https://play.google.com/store/apps/details?id=com.scheme.leverre&hl=en) |It is an app for cafe in cairo for selling coffee, hot drinks and cold drinks |
-| [Smart HR](https://play.google.com/store/apps/details?id=com.scheme.leverrehr&hl=en) |is an Android app designed to simplify HR tasks for employees. It allows them to check in/out, view daily summaries (meetings, tasks), request holidays, manage tasks, access an employee directory, and receive timely notifications. |
-| [Tabark App](https://play.google.com/store/apps/details?id=com.scheme.tabark&hl=en_US) |E-commerce app specialized in selling food items. It offers features like easy navigation, secure transactions, personalized shopping, order tracking, and customer support. It's designed to provide users with a convenient and efficient shopping experience for food products. |
-| [Sahem](https://play.google.com/store/apps/details?id=com.SchemeCode.zadhr&hl=en_US) | employee management in Ghana with our intuitive Android app, empowering companies to efficiently oversee tasks, schedules, and performance|
-| [Mowaters](https://play.google.com/store/apps/details?id=com.sceamcode.mawatery&hl=en) | An app for buying and selling vehicles, plates and services, clearing and insuring government transactions, renting a vehicle, managing your maintenance schedule, expiration of your insurance, your vehicle papers and other alerts (In Bahrin)|
+| #  | Project        | Description |
+| ---| ---            | --- |
+| 1  | [Ayen](https://github.com/hamza94max/Ayen) | It is a live android app to discover homes and properties on the map, view in high-res pics, details of housing units and places (for selling and rent). |
+| 2  | [FootballScores](https://github.com/hamza94max/FootballScores) | A live android app to stay in the game with this Android app! View matches from yesterday, today, and tomorrow, track live stats, explore head-to-head records, and keep up with top scorers and transfers. |
+| 3  | [Rana](https://play.google.com/store/apps/details?id=com.rna.rna) | An eCommerce Android app for buying food and drinks in Egypt. Explore a wide range of products, enjoy exclusive offers, and grab amazing discounts. Convenient, fast, and tailored to your needs. |
+| 4  | [Le VERRE](https://play.google.com/store/apps/details?id=com.scheme.leverre&hl=en) | It is an app for a café in Cairo for selling coffee, hot drinks, and cold drinks. |
+| 5  | [Smart HR](https://play.google.com/store/apps/details?id=com.scheme.leverrehr&hl=en) | An Android app designed to simplify HR tasks for employees. It allows them to check in/out, view daily summaries (meetings, tasks), request holidays, manage tasks, access an employee directory, and receive timely notifications. |
+| 6  | [Tabark App](https://play.google.com/store/apps/details?id=com.scheme.tabark&hl=en_US) | An eCommerce app specialized in selling food items. It offers features like easy navigation, secure transactions, personalized shopping, order tracking, and customer support. It's designed to provide users with a convenient and efficient shopping experience for food products. |
+| 7  | [Sahem](https://play.google.com/store/apps/details?id=com.SchemeCode.zadhr&hl=en_US) | Employee management in Ghana with our intuitive Android app, empowering companies to efficiently oversee tasks, schedules, and performance. |
+| 8  | [Mowaters](https://play.google.com/store/apps/details?id=com.sceamcode.mawatery&hl=en) | An app for buying and selling vehicles, plates, and services, clearing and insuring government transactions, renting a vehicle, managing your maintenance schedule, expiration of your insurance, your vehicle papers, and other alerts (in Bahrain). |
+| 9  | [Sawaed](https://play.google.com/store/apps/details?id=com.scheme.taskSystem) | An Android app designed to help monitor employees within the organization, track assigned tasks, and manage leave requests. Stay connected, organized, and ensure seamless communication and task management within the association. |
 
 # Open source && Projects
 | Project        | Description |

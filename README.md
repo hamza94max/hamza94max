@@ -34,6 +34,7 @@ Connect with me on [LinkedIn](https://www.linkedin.com/in/hamza-khalifa-50ba2117
 | 8  | [Sawaed](https://play.google.com/store/apps/details?id=com.scheme.taskSystem) | An Android app designed to help monitor employees within the organization, track assigned tasks, and manage leave requests. Stay connected, organized, and ensure seamless communication and task management within the association. |
 | 9 | [Tabark App](https://play.google.com/store/apps/details?id=com.scheme.tabark&hl=en_US) | An eCommerce app specialized in selling food items. It offers features like easy navigation, secure transactions, personalized shopping, order tracking, and customer support. It's designed to provide users with a convenient and efficient shopping experience for food products. |
 | 10  | [Ayen](https://github.com/hamza94max/Ayen) | It is a live android app to discover homes and properties on the map, view in high-res pics, details of housing units and places (for selling and rent). |
+| 11  | [Sky](https://play.google.com/store/apps/details?id=com.scheme.sky) | It is a Sky Trading Company for Building Materials and Supplies offers point redemption and product reviews available in the market. |
 
 
 # Open source && Projects

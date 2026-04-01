@@ -1,5 +1,5 @@
 <h1 align="center">Hey there 👋, I'm Hamza Gamal</h1>
-<h3 align="center">Senior Android Developer • Kotlin & Java • Clean Architecture Enthusiast</h3>
+<h3 align="center">Android Developer • Kotlin & Java • Clean Architecture Enthusiast</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=hamza94max&label=Profile%20Views&color=blue&style=flat" alt="profile views" />
